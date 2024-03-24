@@ -1,3 +1,10 @@
+STUDENT DETAILS:
+SNEHIL VUKKUSILA 1RV22CS241
+PRANAV DARSHAN 1RV22CS143
+
+Implementation Of Kernel With Integrated VGA Array And
+I/O Controls To Showcase Ping Pong Real Time Game
+
 <br/>
 <b>Pong Game</b>
 <br/>
